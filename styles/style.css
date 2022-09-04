@@ -13,7 +13,7 @@
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
-  /* выше установили ограничения для секции */
+  width: 730px;
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
@@ -28,4 +28,10 @@
   color: white;
   margin-right: 0;
   margin-top: 80px;
+}
+
+h1 {
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: 600;
 }
