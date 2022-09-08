@@ -132,8 +132,5 @@
   width: 100%;
   border: 1px solid rebeccapurple;
   font-size: 24px;
-}
-
-p1 {
-  height: 500px;
+  margin: auto;
 }
