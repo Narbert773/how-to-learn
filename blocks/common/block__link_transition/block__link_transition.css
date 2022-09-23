@@ -1,7 +1,0 @@
-.block__link_transition {
-    transition: opacity 1s ease;
-}
-
-.block__link_transition:hover {
-    opacity: 0.5;
-}

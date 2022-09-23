@@ -2,8 +2,8 @@
 
 @import url(../blocks/page/page.css);
 
-@import url(../blocks/common/block__image_rotation/block__image_rotation.css);
-@import url(../blocks/common/block__link_transition/block__link_transition.css);
+@import url(../blocks/common/rotation/rotation.css);
+@import url(../blocks/common/transition/transition.css);
 @import url(../blocks/common/logo/logo.css);
 @import url(../blocks/common/two-columns/two-columns.css);
 @import url(../blocks/common/two-columns/__brief/two-columns__brief.css);
