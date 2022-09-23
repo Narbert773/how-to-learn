@@ -1,0 +1,11 @@
+.cards__item {
+    width: 240px;
+}
+
+.cards__item:nth-child(2) {
+    margin: auto 100px auto;
+}
+
+.cards__item:last-child {
+    margin-left: 100px;
+}
